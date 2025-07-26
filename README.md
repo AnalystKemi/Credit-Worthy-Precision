@@ -1,2 +1,3 @@
 # Credit-Worthy-Precision
-Credit Worthy Precision Project
+Objective:
+To build a predictive model that classifies loan applicants as creditworthy or not, using customer demographics, financial history, and loan behavior features.
